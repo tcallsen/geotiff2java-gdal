@@ -22,11 +22,11 @@
     <!-- installed optionally, pointing to system localtion of gdal.jar -->
     <!-- (systemPath may be different based on OS / GDAL build steps) -->
     <dependency>
-        <groupId>org.gdal</groupId>
-        <artifactId>gdal</artifactId>
-        <version>3.0.4</version>
-        <scope>system</scope>
-        <systemPath>/usr/share/java/gdal.jar</systemPath>
+      <groupId>org.gdal</groupId>
+      <artifactId>gdal</artifactId>
+      <version>3.0.4</version>
+      <scope>system</scope>
+      <systemPath>/usr/share/java/gdal.jar</systemPath>
     </dependency>
 
   </dependencies>

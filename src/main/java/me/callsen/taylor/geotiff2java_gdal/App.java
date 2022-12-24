@@ -8,7 +8,7 @@ import org.gdal.osr.SpatialReference;
 
 public class App {
 
-	public static void main( String[] args ) throws Exception {
+  public static void main( String[] args ) throws Exception {
 
     // based on: https://gis.stackexchange.com/questions/349760/get-elevation-of-geotiff-using-gdal-bindings-in-java
 
